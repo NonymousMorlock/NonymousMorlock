@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Flutter Projects<br>🌱 I’m currently learning Python<br>👯 I'm looking to collaborate on insightful projects<br>🤝 I'm looking for Full Stack Flutter Developer gigs<br>🧐I'm currently exploring new technologies<br>📫 How to reach me: My social links below<br>⚡ Fun Fact: I am a debug freak
+🔭 I'm currently working on Flutter Projects<br>🌱 I’m currently learning Python<br>👯 I'm looking to collaborate on insightful projects<br>🤝 I'm looking for Full Stack Flutter Developer gigs<br>🧐 I'm currently exploring new technologies<br>📫 How to reach me: My social links below<br>⚡ Fun Fact: I am a debug freak
 
 
 ## 🌐 Socials:
