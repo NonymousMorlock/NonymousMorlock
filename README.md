@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://a5f18122-a440-4c5b-836c-20fb72c012eb-00-25swkc6iw8mi1.kirk.replit.dev/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NonymousMorlock&icon=0&color=0)](https://visitcount.itsvg.in)
